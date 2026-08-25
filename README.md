@@ -7,3 +7,6 @@ prompts to create a research-project application
 [Prompt5:Methoden] (prompts/05-methoden.md)
 [Prompt6:Schreib] (prompts/06-schreib.md)
 [Prompt7:Pythonskript] (prompts/pythonskript.md)
+[Prompt8:Volltextdownload] (prompts/volltextdownload.md)
+[Prompt9:Paperreader] (prompts/paperreader.med)
+[Prompt10:Arbeitsprogramm] (prompts/arbeitsprogramm.md)
