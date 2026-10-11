@@ -1,0 +1,3 @@
+# Ein Suchstring pro Zeile. Diese Beispiele bitte durch eigene Suchbegriffe ersetzen.
+"generative AI" "critical thinking"
+"ChatGPT" "higher education"
